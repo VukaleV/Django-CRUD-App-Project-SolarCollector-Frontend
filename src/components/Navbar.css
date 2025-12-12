@@ -114,7 +114,7 @@ body.light-mode .nav-user {
   color: #667eea;
 }
 
-/* Mobile */
+
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
